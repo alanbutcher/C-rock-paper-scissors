@@ -1,0 +1,11 @@
+/Users/alanbutcher/source/codeworks/hwapp/bin/Debug/netcoreapp2.2/hwapp.deps.json
+/Users/alanbutcher/source/codeworks/hwapp/bin/Debug/netcoreapp2.2/hwapp.runtimeconfig.json
+/Users/alanbutcher/source/codeworks/hwapp/bin/Debug/netcoreapp2.2/hwapp.runtimeconfig.dev.json
+/Users/alanbutcher/source/codeworks/hwapp/bin/Debug/netcoreapp2.2/hwapp.dll
+/Users/alanbutcher/source/codeworks/hwapp/bin/Debug/netcoreapp2.2/hwapp.pdb
+/Users/alanbutcher/source/codeworks/hwapp/obj/Debug/netcoreapp2.2/hwapp.csprojAssemblyReference.cache
+/Users/alanbutcher/source/codeworks/hwapp/obj/Debug/netcoreapp2.2/hwapp.csproj.CoreCompileInputs.cache
+/Users/alanbutcher/source/codeworks/hwapp/obj/Debug/netcoreapp2.2/hwapp.AssemblyInfoInputs.cache
+/Users/alanbutcher/source/codeworks/hwapp/obj/Debug/netcoreapp2.2/hwapp.AssemblyInfo.cs
+/Users/alanbutcher/source/codeworks/hwapp/obj/Debug/netcoreapp2.2/hwapp.dll
+/Users/alanbutcher/source/codeworks/hwapp/obj/Debug/netcoreapp2.2/hwapp.pdb
